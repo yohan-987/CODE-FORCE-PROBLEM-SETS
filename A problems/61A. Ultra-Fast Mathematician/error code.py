@@ -1,0 +1,6 @@
+a=int(input())
+b=list(str(a))
+print(b)
+c=input()
+d=list((c))
+print(d)

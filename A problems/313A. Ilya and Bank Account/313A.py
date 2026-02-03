@@ -1,0 +1,7 @@
+n=input()
+d=int(''.join(str(i) for i in n))
+l=len(n)
+a=int(n[0:l-1])
+b=int(n[0:l-2]+n[l-1])
+c=max(a,b,d)
+print(c)
