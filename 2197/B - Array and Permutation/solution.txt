@@ -1,0 +1,26 @@
+def can_generate(p, a):
+    
+    b = [a[0]] #list
+    for x in a[1:]:
+        if x != b[-1]:
+            b.append(x)
+ 
+    
+    j = 0  # pointer for b
+    for x in p:
+        if j < len(b) and x == b[j]:
+            j += 1
+ 
+    return j == len(b)
+ 
+ 
+t = int(input())
+for _ in range(t):
+    n = int(input())
+    p = list(map(int, input().split()))
+    a = list(map(int, input().split()))
+ 
+    if can_generate(p, a):
+        print("YES")
+    else:
+        print("NO")
