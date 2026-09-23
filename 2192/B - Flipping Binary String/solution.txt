@@ -1,0 +1,30 @@
+t=int(input())
+for k in range(t):
+  n=int(input())
+  a=input()
+  if "1" not in a:
+        print(0)
+  else:
+    ones=a.count("1")
+    zeros = n - ones
+ 
+    if ones % 2 == 0:
+ 
+        c = []
+        for i in range(n):
+            if a[i] == '1':
+                c.append(i + 1) 
+        print(len(c))
+        print(*c)
+    elif zeros % 2 == 1:
+ 
+        c = []
+ 
+        for i in range(n):
+            if a[i] == '0':
+                c.append(i + 1)
+ 
+        print(len(c))
+        print(*c)
+    else:
+        print(-1)
