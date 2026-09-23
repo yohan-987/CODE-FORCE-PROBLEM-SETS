@@ -1,0 +1,16 @@
+def wins(p, q):
+    
+    if 3 * p == 2 * q:
+        return "Bob"
+    
+    
+    if p >= 2 and (p + 1) <= q <= (3 * p) // 2:
+        return "Bob"
+    
+    
+    return "Alice"
+ 
+t = int(input())
+for i in range(t):
+    p, q = map(int, input().split())
+    print(wins(p, q))
