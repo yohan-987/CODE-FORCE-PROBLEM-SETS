@@ -1,0 +1,15 @@
+t = int(input())
+for i in range(t):
+    n = int(input())
+    s = input().strip()
+    new = []
+    for ch in s:
+        if len(new) > 0 and new[-1] == ch:
+            new.pop()
+        else:
+            new.append(ch)
+    
+    if len(new) == 0:
+        print("YES")
+    else:
+        print("NO")
