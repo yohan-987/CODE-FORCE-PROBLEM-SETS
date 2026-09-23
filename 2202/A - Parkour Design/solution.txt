@@ -1,0 +1,17 @@
+t = int(input())
+ 
+for i in range(t):
+    x, y = map(int, input().split())
+    gap = x - (2 * y)
+    if gap < 0:
+        print("NO")
+        continue
+ 
+    if gap % 3 != 0:
+        print("NO")
+        continue
+    dn = max(0, -y)
+    if (gap // 3) < (2 * dn):
+        print("NO")
+        continue
+    print("YES")
