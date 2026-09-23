@@ -1,0 +1,14 @@
+t=int(input())
+for i in range(t):
+    n,x,y=map(int,input().split())
+    a=list(map(int,input().split()))
+    contri=[]
+    for j in range(n):
+        contri.append((a[j]//x)*y)
+       
+    total=sum(contri)
+    c=0
+    for k in range(n):
+        curr=a[k]+(total-contri[k])
+        c=max(c,curr)
+    print(c)
