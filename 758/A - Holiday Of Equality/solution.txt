@@ -1,0 +1,7 @@
+t=int(input()) 
+a=list(map(int, input ().split())) 
+b=max(a) 
+c=0
+for j in range(t):
+    c+=b-a[j]
+print(c) 
