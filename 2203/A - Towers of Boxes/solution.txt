@@ -1,0 +1,7 @@
+t=int(input())
+for i in range(t):
+    n,m,d=map(int,input().split())
+    box = 1 + (d // m)
+        
+    twr = (n + box - 1) // box
+    print(twr)
