@@ -1,0 +1,14 @@
+n=int(input())
+exit=[]
+enter=[]
+for j in range(n):
+    a=input().split()
+    exit.append(int(a[0]))
+    enter.append(int(a[1]))
+current=0
+max=0
+for i in range(n):
+    current=current+enter[i]-exit[i]
+    if current>max:
+          max=current
+print(max)          
