@@ -1,0 +1,6 @@
+t=int(input())
+for i in range(t):
+    n,w=map(int,input().split())
+    a=n-(n//w )
+    print(a)
+  
