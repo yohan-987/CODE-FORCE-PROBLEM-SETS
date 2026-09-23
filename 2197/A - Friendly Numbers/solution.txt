@@ -1,0 +1,17 @@
+def I_sum(i):
+    dy=str(i)
+    s=0
+    for k in dy:
+        s+=int(k)
+    return s
+t=int(input())
+for k in range(t):
+    a=int(input())
+ 
+    c=0
+    for i in range(a,a+100):
+     
+        if i-I_sum(i)==a:
+            c+=1
+    print(c)
+    
