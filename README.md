@@ -6,26 +6,58 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 6 |
+| 31 | 16 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
+- [Uncategorized](#uncategorized) (1)
+- [binary search](#binary-search) (1)
+- [brute force](#brute-force) (4)
+- [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (1)
-- [greedy](#greedy) (2)
-- [implementation](#implementation) (13)
-- [math](#math) (5)
+- [expression parsing](#expression-parsing) (1)
+- [graph matchings](#graph-matchings) (1)
+- [greedy](#greedy) (3)
+- [implementation](#implementation) (21)
+- [math](#math) (11)
+- [number theory](#number-theory) (2)
+- [schedules](#schedules) (2)
+- [shortest paths](#shortest-paths) (1)
+- [sortings](#sortings) (2)
 - [strings](#strings) (6)
+- [two pointers](#two-pointers) (2)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2197C | [Game with a Fraction](https://codeforces.com/contest/2197/problem/C) | Unrated | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2197/C%20-%20Game%20with%20a%20Fraction/solution.txt) |
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.txt) |
 
 ### brute force
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/4/A%20-%20Watermelon/solution.txt) |
+| 898B | [Proper Nutrition](https://codeforces.com/contest/898/problem/B) | 1100 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/898/B%20-%20Proper%20Nutrition/solution.txt) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.txt) |
+| 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.txt) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.txt) |
+| 2191A | [Array Coloring](https://codeforces.com/contest/2191/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2191/A%20-%20Array%20Coloring/solution.txt) |
 
 ### data structures
 
@@ -33,10 +65,23 @@
 |---|---------|------------|----------|
 | 1722C | [Word Game](https://codeforces.com/contest/1722/problem/C) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/1722/C%20-%20Word%20Game/solution.txt) |
 
+### expression parsing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.txt) |
+
+### graph matchings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.txt) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.txt) |
 | 2194A | [Lawn Mower](https://codeforces.com/contest/2194/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2194/A%20-%20Lawn%20Mower/solution.txt) |
 | 2194B | [Offshores](https://codeforces.com/contest/2194/problem/B) | 1000 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2194/B%20-%20Offshores/solution.txt) |
 
@@ -52,21 +97,62 @@
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.txt) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/116/A%20-%20Tram/solution.txt) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/200/B%20-%20Drinks/solution.txt) |
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.txt) |
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.txt) |
+| 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.txt) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/520/A%20-%20Pangram/solution.txt) |
+| 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.txt) |
+| 898B | [Proper Nutrition](https://codeforces.com/contest/898/problem/B) | 1100 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/898/B%20-%20Proper%20Nutrition/solution.txt) |
 | 977B | [Two-gram](https://codeforces.com/contest/977/problem/B) | 900 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/977/B%20-%20Two-gram/solution.txt) |
+| 1722B | [Colourblindness](https://codeforces.com/contest/1722/problem/B) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/1722/B%20-%20Colourblindness/solution.txt) |
 | 1722C | [Word Game](https://codeforces.com/contest/1722/problem/C) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/1722/C%20-%20Word%20Game/solution.txt) |
 | 1950A | [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/1950/A%20-%20Stair%2C%20Peak%2C%20or%20Neither%3F/solution.txt) |
 | 2194B | [Offshores](https://codeforces.com/contest/2194/problem/B) | 1000 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2194/B%20-%20Offshores/solution.txt) |
+| 2195B | [Heapify 1](https://codeforces.com/contest/2195/problem/B) | 900 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2195/B%20-%20Heapify%201/solution.txt) |
+| 2197B | [Array and Permutation](https://codeforces.com/contest/2197/problem/B) | 1100 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2197/B%20-%20Array%20and%20Permutation/solution.txt) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/1/A%20-%20Theatre%20Square/solution.txt) |
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/4/A%20-%20Watermelon/solution.txt) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/200/B%20-%20Drinks/solution.txt) |
+| 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.txt) |
+| 2184A | [Social Experiment](https://codeforces.com/contest/2184/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2184/A%20-%20Social%20Experiment/solution.txt) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.txt) |
 | 2194A | [Lawn Mower](https://codeforces.com/contest/2194/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2194/A%20-%20Lawn%20Mower/solution.txt) |
 | 2194B | [Offshores](https://codeforces.com/contest/2194/problem/B) | 1000 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2194/B%20-%20Offshores/solution.txt) |
+| 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.txt) |
+| 2195D | [Absolute Cinema](https://codeforces.com/contest/2195/problem/D) | 1300 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2195/D%20-%20Absolute%20Cinema/solution.txt) |
+| 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.txt) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 898B | [Proper Nutrition](https://codeforces.com/contest/898/problem/B) | 1100 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/898/B%20-%20Proper%20Nutrition/solution.txt) |
+| 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.txt) |
+
+### schedules
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.txt) |
+| 2197B | [Array and Permutation](https://codeforces.com/contest/2197/problem/B) | 1100 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2197/B%20-%20Array%20and%20Permutation/solution.txt) |
+
+### shortest paths
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.txt) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2195B | [Heapify 1](https://codeforces.com/contest/2195/problem/B) | 900 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2195/B%20-%20Heapify%201/solution.txt) |
+| 2197B | [Array and Permutation](https://codeforces.com/contest/2197/problem/B) | 1100 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2197/B%20-%20Array%20and%20Permutation/solution.txt) |
 
 ### strings
 
@@ -78,6 +164,13 @@
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.txt) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/520/A%20-%20Pangram/solution.txt) |
 | 977B | [Two-gram](https://codeforces.com/contest/977/problem/B) | 900 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/977/B%20-%20Two-gram/solution.txt) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.txt) |
+| 2197B | [Array and Permutation](https://codeforces.com/contest/2197/problem/B) | 1100 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2197/B%20-%20Array%20and%20Permutation/solution.txt) |
 
 ---
 
