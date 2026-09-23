@@ -1,0 +1,24 @@
+t = int(input())
+for i in range(t):
+    x_str = input()
+    c_s = sum(int(d) for d in x_str)
+    if c_s <= 9:
+        print(0)
+        continue
+    t_r = c_s - 9
+    s = []
+    for j in range(len(x_str)):
+        digit = int(x_str[j])
+        if j == 0:
+            s.append(digit - 1)
+        else:
+            s.append(digit)
+    s.sort(reverse=True)
+    m = 0
+    a_s = 0
+    for save in s:
+        a_s += save
+        m += 1
+        if a_s >= t_r:
+            break
+    print(m)
