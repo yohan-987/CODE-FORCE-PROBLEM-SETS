@@ -1,0 +1,19 @@
+n=int(input())
+a=input ()
+c=[]
+for i in range(n-1):
+    l=a[i]+a[i+1]
+    c.append(l)   #'A','B' = 'AB'
+p=[]
+for i in range(len(c)):
+    count=0
+    for j in range(len(c)):
+        if c[i]==c[j]:
+            count+=1
+            
+    p.append(count)    
+d=sorted (p)
+Max=d[-1]
+e=p.index(Max)
+print (c[e])
+    
