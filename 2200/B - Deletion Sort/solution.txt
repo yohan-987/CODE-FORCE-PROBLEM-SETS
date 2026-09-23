@@ -1,0 +1,8 @@
+t = int(input())
+for j in range(t):
+    n = int(input())
+    a = list(map(int, input().split()))
+    if a == sorted(a):
+        print(n)
+    else:
+        print(1)
