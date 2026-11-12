@@ -1,0 +1,16 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+
+# VS Code Code Runner scratch files
+tempCodeRunnerFile.*
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
