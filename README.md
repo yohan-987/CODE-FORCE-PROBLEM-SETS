@@ -137,7 +137,7 @@
 | 977B | [Two-gram](https://codeforces.com/contest/977/problem/B) | 900 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/977/B%20-%20Two-gram/solution.txt) |
 | 1722B | [Colourblindness](https://codeforces.com/contest/1722/problem/B) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/1722/B%20-%20Colourblindness/solution.txt) |
 | 1722C | [Word Game](https://codeforces.com/contest/1722/problem/C) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/1722/C%20-%20Word%20Game/solution.txt) |
-| 1950A | [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/1950/A%20-%20Stair%2C%20Peak%2C%20or%20Neither%3F/solution.txt) |
+| 1950A | [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/1950/A%20-%20Stair%2C%20Peak%2C%20or%20Neither/solution.txt) |
 | 2194B | [Offshores](https://codeforces.com/contest/2194/problem/B) | 1000 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2194/B%20-%20Offshores/solution.txt) |
 | 2195B | [Heapify 1](https://codeforces.com/contest/2195/problem/B) | 900 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2195/B%20-%20Heapify%201/solution.txt) |
 | 2197B | [Array and Permutation](https://codeforces.com/contest/2197/problem/B) | 1100 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2197/B%20-%20Array%20and%20Permutation/solution.txt) |
