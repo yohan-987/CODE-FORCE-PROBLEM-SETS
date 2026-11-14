@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 40 | 19 |
+| 41 | 19 |
 
 ---
 
@@ -23,7 +23,7 @@
 - [fft](#fft) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (7)
-- [implementation](#implementation) (22)
+- [implementation](#implementation) (23)
 - [math](#math) (15)
 - [number theory](#number-theory) (2)
 - [schedules](#schedules) (2)
@@ -126,6 +126,7 @@
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.txt) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.txt) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/116/A%20-%20Tram/solution.txt) |
+| 119A | [Epic Game](https://codeforces.com/contest/119/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/119/A%20-%20Epic%20Game/solution.txt) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/200/B%20-%20Drinks/solution.txt) |
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.txt) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.txt) |
@@ -137,7 +138,7 @@
 | 977B | [Two-gram](https://codeforces.com/contest/977/problem/B) | 900 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/977/B%20-%20Two-gram/solution.txt) |
 | 1722B | [Colourblindness](https://codeforces.com/contest/1722/problem/B) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/1722/B%20-%20Colourblindness/solution.txt) |
 | 1722C | [Word Game](https://codeforces.com/contest/1722/problem/C) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/1722/C%20-%20Word%20Game/solution.txt) |
-| 1950A | [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/1950/A%20-%20Stair%2C%20Peak%2C%20or%20Neither/solution.txt) |
+| 1950A | [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/1950/A%20-%20Stair%2C%20Peak%2C%20or%20Neither%3F/solution.txt) |
 | 2194B | [Offshores](https://codeforces.com/contest/2194/problem/B) | 1000 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2194/B%20-%20Offshores/solution.txt) |
 | 2195B | [Heapify 1](https://codeforces.com/contest/2195/problem/B) | 900 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2195/B%20-%20Heapify%201/solution.txt) |
 | 2197B | [Array and Permutation](https://codeforces.com/contest/2197/problem/B) | 1100 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2197/B%20-%20Array%20and%20Permutation/solution.txt) |
