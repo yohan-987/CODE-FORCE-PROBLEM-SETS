@@ -1,0 +1,22 @@
+import math
+ 
+s,a,n=map(int,input().split())
+turn=0
+while True:
+    if turn%2==0:
+        curr_n=math.gcd(s,n)
+        if curr_n<=n:
+            n-=curr_n
+        else:
+            print(1)
+            break  
+            
+    else:
+        curr_n=math.gcd(a,n)
+       
+        if curr_n<=n:
+            n-=curr_n
+        else:
+            print(0)
+            break
+    turn+=1
