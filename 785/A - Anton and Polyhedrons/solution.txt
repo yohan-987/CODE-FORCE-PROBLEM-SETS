@@ -1,0 +1,7 @@
+n=int(input())
+c={"Icosahedron":20,"Tetrahedron":4,"Cube":6,"Octahedron":8,"Dodecahedron":12,}
+f=0
+for i in range(n):
+    a=input()
+    f+=c[a]
+print(f)
