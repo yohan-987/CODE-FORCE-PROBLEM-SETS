@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 43 | 19 |
+| 44 | 19 |
 
 ---
 
@@ -23,13 +23,13 @@
 - [fft](#fft) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (8)
-- [implementation](#implementation) (25)
+- [implementation](#implementation) (26)
 - [math](#math) (16)
 - [number theory](#number-theory) (3)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (3)
-- [strings](#strings) (9)
+- [strings](#strings) (10)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -137,6 +137,7 @@
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.txt) |
 | 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.txt) |
 | 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.txt) |
+| 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.txt) |
 | 898B | [Proper Nutrition](https://codeforces.com/contest/898/problem/B) | 1100 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/898/B%20-%20Proper%20Nutrition/solution.txt) |
 | 977B | [Two-gram](https://codeforces.com/contest/977/problem/B) | 900 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/977/B%20-%20Two-gram/solution.txt) |
 | 1722B | [Colourblindness](https://codeforces.com/contest/1722/problem/B) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/1722/B%20-%20Colourblindness/solution.txt) |
@@ -205,6 +206,7 @@
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/96/A%20-%20Football/solution.txt) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.txt) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/520/A%20-%20Pangram/solution.txt) |
+| 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.txt) |
 | 977B | [Two-gram](https://codeforces.com/contest/977/problem/B) | 900 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/977/B%20-%20Two-gram/solution.txt) |
 | 2192A | [String Rotation Game](https://codeforces.com/contest/2192/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2192/A%20-%20String%20Rotation%20Game/solution.txt) |
 | 2192B | [Flipping Binary String](https://codeforces.com/contest/2192/problem/B) | 1000 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2192/B%20-%20Flipping%20Binary%20String/solution.txt) |
