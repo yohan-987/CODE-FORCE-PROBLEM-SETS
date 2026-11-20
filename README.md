@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 41 | 19 |
+| 42 | 19 |
 
 ---
 
@@ -23,7 +23,7 @@
 - [fft](#fft) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (7)
-- [implementation](#implementation) (23)
+- [implementation](#implementation) (24)
 - [math](#math) (15)
 - [number theory](#number-theory) (2)
 - [schedules](#schedules) (2)
@@ -133,6 +133,7 @@
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.txt) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/486/A%20-%20Calculating%20Function/solution.txt) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/520/A%20-%20Pangram/solution.txt) |
+| 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.txt) |
 | 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.txt) |
 | 898B | [Proper Nutrition](https://codeforces.com/contest/898/problem/B) | 1100 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/898/B%20-%20Proper%20Nutrition/solution.txt) |
 | 977B | [Two-gram](https://codeforces.com/contest/977/problem/B) | 900 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/977/B%20-%20Two-gram/solution.txt) |
