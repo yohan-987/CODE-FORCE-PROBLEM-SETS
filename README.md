@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 45 | 19 |
+| 46 | 19 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (7)
@@ -39,6 +39,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2197C | [Game with a Fraction](https://codeforces.com/contest/2197/problem/C) | Unrated | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2197/C%20-%20Game%20with%20a%20Fraction/solution.txt) |
+| 2289A | [Problem from Dolgoderevenskoye](https://codeforces.com/contest/2289/problem/A) | Unrated | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2289/A%20-%20Problem%20from%20Dolgoderevenskoye/solution.txt) |
 
 ### binary search
 
