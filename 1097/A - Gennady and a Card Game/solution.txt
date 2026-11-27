@@ -1,0 +1,14 @@
+t=input()
+t1=t[0]
+t2=t[1]
+c=0
+run=0
+h=input().split()
+for i in range(len(h)):
+    c+=1
+    if t1 in h[i] or t2 in h[i]:
+        print("YES")
+        run=1
+        break
+if c==len(h) and run==0:
+    print("NO")
