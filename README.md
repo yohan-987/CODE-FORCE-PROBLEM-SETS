@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 46 | 19 |
+| 47 | 19 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [Uncategorized](#uncategorized) (2)
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (7)
+- [brute force](#brute-force) (8)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
@@ -23,7 +23,7 @@
 - [fft](#fft) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (8)
-- [implementation](#implementation) (27)
+- [implementation](#implementation) (28)
 - [math](#math) (16)
 - [number theory](#number-theory) (3)
 - [schedules](#schedules) (2)
@@ -60,6 +60,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/4/A%20-%20Watermelon/solution.txt) |
 | 898B | [Proper Nutrition](https://codeforces.com/contest/898/problem/B) | 1100 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/898/B%20-%20Proper%20Nutrition/solution.txt) |
+| 1097A | [Gennady and a Card Game](https://codeforces.com/contest/1097/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/1097/A%20-%20Gennady%20and%20a%20Card%20Game/solution.txt) |
 | 2192A | [String Rotation Game](https://codeforces.com/contest/2192/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2192/A%20-%20String%20Rotation%20Game/solution.txt) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.txt) |
 | 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.txt) |
@@ -142,6 +143,7 @@
 | 898B | [Proper Nutrition](https://codeforces.com/contest/898/problem/B) | 1100 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/898/B%20-%20Proper%20Nutrition/solution.txt) |
 | 977B | [Two-gram](https://codeforces.com/contest/977/problem/B) | 900 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/977/B%20-%20Two-gram/solution.txt) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.txt) |
+| 1097A | [Gennady and a Card Game](https://codeforces.com/contest/1097/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/1097/A%20-%20Gennady%20and%20a%20Card%20Game/solution.txt) |
 | 1722B | [Colourblindness](https://codeforces.com/contest/1722/problem/B) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/1722/B%20-%20Colourblindness/solution.txt) |
 | 1722C | [Word Game](https://codeforces.com/contest/1722/problem/C) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/1722/C%20-%20Word%20Game/solution.txt) |
 | 1950A | [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/1950/A%20-%20Stair%2C%20Peak%2C%20or%20Neither%3F/solution.txt) |
