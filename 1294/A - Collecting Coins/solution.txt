@@ -1,0 +1,10 @@
+t=int(input())
+for i in range(t):
+    a,b,c,n=map(int,input().split())
+    max_of3=max(a,b,c)
+    x=a+b+c-max_of3
+    r=2*max_of3-x
+    if n-r>=0 and (n-r)%3==0  :
+        print("YES")
+    else:
+        print("NO")
