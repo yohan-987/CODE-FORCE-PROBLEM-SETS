@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 47 | 19 |
+| 48 | 19 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (8)
 - [implementation](#implementation) (28)
-- [math](#math) (16)
+- [math](#math) (17)
 - [number theory](#number-theory) (3)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (1)
@@ -161,6 +161,7 @@
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/486/A%20-%20Calculating%20Function/solution.txt) |
 | 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.txt) |
 | 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.txt) |
+| 1294A | [Collecting Coins](https://codeforces.com/contest/1294/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/1294/A%20-%20Collecting%20Coins/solution.txt) |
 | 2184A | [Social Experiment](https://codeforces.com/contest/2184/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2184/A%20-%20Social%20Experiment/solution.txt) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.txt) |
 | 2194A | [Lawn Mower](https://codeforces.com/contest/2194/problem/A) | 800 | [PyPy 3-64](https://github.com/yohan-987/CODE-FORCE-PROBLEM-SETS/blob/HEAD/2194/A%20-%20Lawn%20Mower/solution.txt) |
